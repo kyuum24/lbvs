@@ -1,4 +1,4 @@
-# LBVS-01
+# LBVS
 Ligand based virtual screening using ai
-
-it will be uploaded on 05/05/2026
+IN PROCESS
+FINISHED SOON
